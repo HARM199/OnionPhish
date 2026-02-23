@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pysocks
+colorama
+watchdog
+stem
+pyngrok
+fake-useragent

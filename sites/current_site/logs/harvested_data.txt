@@ -1,0 +1,18 @@
+[2026-02-23 16:24:31]
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+Data:
+krypto_captcha_answer: 8678788
+csrf_token: 34445564d3301cda401621edf8f2f470f5878ada7979f0e6
+original_url: http://kryptodfcxsbyviry757d4dtbezluaj36qygvhoclb2auvoggropzzid.onion/index.php
+
+--------------------------------------------------
+[2026-02-23 16:25:43]
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+Data:
+krypto_captcha_answer: 8768798
+csrf_token: 34445564d3301cda401621edf8f2f470f5878ada7979f0e6
+original_url: http://kryptodfcxsbyviry757d4dtbezluaj36qygvhoclb2auvoggropzzid.onion/index.php
+
+--------------------------------------------------
