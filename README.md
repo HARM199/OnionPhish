@@ -4,7 +4,7 @@
   
   ### <span style="color:red">⚡ الأداة الأقوى عربياً لاستنساخ المواقع وحصد البيانات ⚡</span>
   
-  <img src="images/screenshot.png" alt="واجهة الأداة" width="90%"/>
+  <img src="images/177187642370341.png" alt="واجهة الأداة" width="800"/>
   
   <br>
   
